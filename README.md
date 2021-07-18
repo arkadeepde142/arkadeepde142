@@ -32,7 +32,7 @@ feel free to connect, let's cultivate new ideas together !.
   
 <p align="center">
 <a href="https://github.com/arkadeepde142/">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=arkadeepde142&show_icons=true&line_height=20&theme=tokyonight" />
+  <img width="80%" src="https://github-readme-stats.vercel.app/api?username=arkadeepde142&show_icons=true&line_height=20&theme=tokyonight" />
 </a>
   </p>
 
