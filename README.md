@@ -34,7 +34,7 @@ feel free to connect, let's cultivate new ideas together !.
   <img width="60%" src="https://github-readme-stats.vercel.app/api?username=arkadeepde142&show_icons=true&line_height=20&theme=tokyonight" />
 </p>
 
-[![Arkadeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=arkadeepde142)](https://github.com/anuraghazra/github-readme-stats)
+[![Arkadeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=arkadeepde142)](https://github.com/arkadeepde142)
 
 
 ### 📫 Connect with me
