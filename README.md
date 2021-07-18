@@ -14,11 +14,11 @@
 
 ### 🔭 About Me
 
-* Computer science engineering undergrad at Jadavpur University.
+* Computer Science engineering undergrad at Jadavpur University.
 
-Learning Enthusiast. love innovation more than anything.
+Learning Enthusiast. Love innovation more than anything.
 
-technical skills majorly include C, C++, javascript, html, css, react-native, rust, GDScript. Comfortable with web-apps, android application, native apps. 
+Technical skills majorly include C/C++, JavaScript, HTML, CSS, React-Native, Rust, GDScript. Comfortable with web-apps, android application, native apps. 
 2d/3d Game development with Godot.
 
 also practised in content writing, logo designing and e-book-formatting and designing and photography.
